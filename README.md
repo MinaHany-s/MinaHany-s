@@ -4,10 +4,22 @@
 
 ## 👋 Hey there! I'm Mon  
 - 💻 Backend Developer | Competitive Programmer  
-- 🏆 3 years of ECPC experience  
+- 🏆 ECPC Finalist  
+- 💡 Passionate about Problem Solving & Algorithmic Thinking  
 - 📩 How to reach me: [minahany0001@gmail.com](mailto:minahany0001@gmail.com) (Let's collab!)  
 - 🛠 Ask me anything about Backend Development 🚀  
 - 🌱 Currently learning **Advanced Backend Concepts**  
+
+---
+
+## 🎯 Competitive Programming Profile:  
+<p align="left">
+  <a href="https://codeforces.com/profile/twicema5da">
+    <img src="https://img.shields.io/badge/Codeforces-twicema5da-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
+
+---
 
 ### 📊 Profile Views  
 ![Profile views](https://komarev.com/ghpvc/?username=Mon&color=blue)
@@ -35,18 +47,24 @@
 
 ---
 
-## 📈 Most Used Languages:  
-![TypeScript](https://img.shields.io/badge/TypeScript-60%25-blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)  
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-5%25-orange)  
+## 📊 Most Used Languages:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-60%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 GitHub Stats:  
-![Stars](https://img.shields.io/badge/Total%20Stars-100-yellow)  
-![Commits](https://img.shields.io/badge/Total%20Commits-500-blue)  
-![PRs](https://img.shields.io/badge/Total%20PRs-20-green)  
-![Issues](https://img.shields.io/badge/Total%20Issues-10-red)  
+## 🚀 GitHub Stats:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Stars-100-FAC748?style=for-the-badge&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Commits-500-007EC6?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20PRs-20-4CAF50?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Issues-10-FF5733?style=for-the-badge&logo=exclamation&logoColor=white" />
+</p>
 
 ---
 
