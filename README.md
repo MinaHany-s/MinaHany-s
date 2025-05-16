@@ -2,7 +2,7 @@
 
 ![Follow](https://img.shields.io/github/followers/mon?style=social)
 
-## 👋 Hey there! I'm Mon  
+## 👋 Hey there! I'm Mina  
 - 💻 Backend Developer | Competitive Programmer  
 - 🏆 ECPC Finalist  
 - 💡 Passionate about Problem Solving & Algorithmic Thinking  
