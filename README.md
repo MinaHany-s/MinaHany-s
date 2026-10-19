@@ -1,78 +1,72 @@
-# MinaHany / README.md
+# Hi, I'm Mina Hany 👋
 
-![Follow](https://img.shields.io/github/followers/mon?style=social)
+### Full-Stack Web Developer | Backend-Focused
 
-## 👋 Hey there! I'm Mina  
-- 💻 Backend Developer | Competitive Programmer  
-- 🏆 ECPC Finalist  
-- 💡 Passionate about Problem Solving & Algorithmic Thinking  
-- 📩 How to reach me: [minahany0001@gmail.com](mailto:minahany0001@gmail.com) (Let's collab!)  
-- 🛠 Ask me anything about Backend Development 🚀  
-- 🌱 Currently learning **Advanced Backend Concepts**  
+I'm a Computer Science graduate passionate about building web applications, developing robust backend systems, and creating interactive user interfaces.
+
+- 💻 Focused on **Backend Development** with Node.js and Express.js
+- 🎨 Building modern user interfaces with **React, TypeScript, and Tailwind CSS**
+- 🏆 **3× ECPC Finalist**
+- 🧠 Solved **1000+ Competitive Programming Problems**
+- 🌱 Always learning and improving my software development skills
+- 📫 Email: [minahany0001@gmail.com](mailto:minahany0001@gmail.com)
 
 ---
 
-## 🎯 Competitive Programming Profile:  
+## 🛠️ Technologies & Tools
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" alt="Backend Technologies" />
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
+</p>
+
+### Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vite" alt="Development Tools" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
 <p align="left">
   <a href="https://codeforces.com/profile/twicema5da">
-    <img src="https://img.shields.io/badge/Codeforces-twicema5da-blue?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-twicema5da-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
 </p>
 
 ---
 
-### 📊 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=Mon&color=blue)
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinaHany-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaHany-s&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
-## 🤝 Connect with me:  
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mina-hany-53b550351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mina-hany-53b550351/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MinaHany-s" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/MinaHany-s">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:minahany0001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## ⚡ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/>
+<p align="center">
+  <i>Building useful things, one project at a time. 🚀</i>
 </p>
-
----
-
-## 📊 Most Used Languages:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-60%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
----
-
-## 🚀 GitHub Stats:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Stars-100-FAC748?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Commits-500-007EC6?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20PRs-20-4CAF50?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Issues-10-FF5733?style=for-the-badge&logo=exclamation&logoColor=white" />
-</p>
-
----
-
-### 🔥 Keep Building & Keep Learning!
