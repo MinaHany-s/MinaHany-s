@@ -1,19 +1,61 @@
-# Hi, I'm Mina Hany 👋
+# Mina Hany
 
-### Full-Stack Web Developer | Backend-Focused
+### Backend Developer | Node.js | Express.js | Problem Solving
 
-I'm a Computer Science graduate passionate about building web applications, developing robust backend systems, and creating interactive user interfaces.
+Computer Science graduate focused on backend engineering and building reliable web applications.
 
-- 💻 Focused on **Backend Development** with Node.js and Express.js
-- 🎨 Building modern user interfaces with **React, TypeScript, and Tailwind CSS**
-- 🏆 **3× ECPC Finalist**
-- 🧠 Solved **1000+ Competitive Programming Problems**
-- 🌱 Always learning and improving my software development skills
-- 📫 Email: [minahany0001@gmail.com](mailto:minahany0001@gmail.com)
+I enjoy designing RESTful APIs, implementing secure authentication systems, working with databases, and building maintainable software.
+
+- Backend Development with **Node.js, Express.js, and MongoDB**
+- Frontend Development with **React, TypeScript, and Tailwind CSS**
+- **3× ECPC Finalist**
+- **1000+ Competitive Programming Problems Solved**
+- Interested in backend architecture, API design, and software engineering.
+
+📧 **Email:** [minahany0001@gmail.com](mailto:minahany0001@gmail.com)
+
+💼 **LinkedIn:** [Mina Hany](https://www.linkedin.com/in/mina--hany/)
 
 ---
 
-## 🛠️ Technologies & Tools
+## Featured Project
+
+### NOTELY – Full-Stack Note-Taking Application
+
+A full-stack note-taking application built to help users organize and manage their notes through a responsive interface and a secure RESTful API.
+
+**Backend Highlights**
+- RESTful API built with Node.js and Express.js.
+- JWT authentication using Access and Refresh Tokens.
+- Secure session management with MongoDB.
+- HTTP-only cookies for Refresh Tokens.
+- Role-based authorization and protected routes.
+- Password hashing and login rate limiting.
+- Notes management with pin, archive, trash, and restore operations.
+- Admin dashboard and user management.
+
+**Frontend Highlights**
+- React-based responsive user interface.
+- Authentication and automatic token refresh.
+- Notes management and user profile features.
+- Admin dashboard.
+- Loading states, skeleton loaders, and toast notifications.
+
+**Tech Stack**
+
+Node.js · Express.js · MongoDB · Mongoose · JWT · React · Vite · Axios · React Router · Tailwind CSS
+
+**Project Links**
+
+- [Live Application](https://notelyy-drab.vercel.app/)
+- [Frontend Source Code](https://github.com/MinaHany-s/NOTELY-WEBSITE)
+- [Backend Source Code](https://github.com/MinaHany-s/NOTELY)
+- [Backend API](https://notely-five-pied.vercel.app/)
+- [Postman API Documentation](https://documenter.getpostman.com/view/40072844/2sBYPv3XuH)
+
+---
+
+## Technical Skills
 
 ### Backend Development
 <p align="left">
@@ -32,41 +74,40 @@ I'm a Computer Science graduate passionate about building web applications, deve
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
-<p align="left">
-  <a href="https://codeforces.com/profile/twicema5da">
-    <img src="https://img.shields.io/badge/Codeforces-twicema5da-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
-  </a>
-</p>
+Competitive programming has strengthened my problem-solving skills, algorithmic thinking, and ability to approach complex challenges.
+
+- **3× ECPC Finalist**
+- **1000+ Problems Solved**
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-twicema5da-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/twicema5da)
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinaHany-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinaHany-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaHany-s&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mina-hany-53b550351/">
+  <a href="https://www.linkedin.com/in/mina--hany/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:minahany0001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/MinaHany-s">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:minahany0001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
----
-
 <p align="center">
-  <i>Building useful things, one project at a time. 🚀</i>
+  <i>Building reliable systems, solving problems, and continuously improving.</i>
 </p>
